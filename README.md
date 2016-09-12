@@ -3,4 +3,4 @@
 
 
 ### 修改切换时出现的BUG
-![image](https://github.com/lcokean/StatusBarDemo/tree/master/art/demo.gif)
+![image](https://raw.githubusercontent.com/lcokean/StatusBarDemo/master/art/demo.gif)
